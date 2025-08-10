@@ -15,5 +15,7 @@ Tasks:
  Excel basics   |   Pivot tables & charts   |   Business metrics
  
  Bonus Tasks:
+ 
  1.Add slicers to filter by product category 
+ 
  2.Calculate YoY or MoM change
